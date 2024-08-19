@@ -15,8 +15,8 @@ jobs:
               with:
                   commitHash: ${{ github.sha }}
                   apiToken: ${{ secrets.CF_API_TOKEN  }}
-                  accountId: "ba4e8f7f9ffbc23dba6acd0d9bd3ef46"
-                  project: "dromzeh-dev"
+                  accountId: "7815f90c21d76ed909b0e1caf6a326f4"
+                  project: "resume"
                   githubToken: ${{ secrets.GITHUB_TOKEN }}
             - run: | # purges cache on CF
                   curl -X \
