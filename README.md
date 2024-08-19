@@ -16,3 +16,5 @@ Built with [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com
 dromzeh.dev is licensed under the [GNU Affero General Public License v3.0](LICENSE)
 
 **You must state all significant changes made to the original software, make the source code available to the public with credit to the original author, original source, and use the same license.**
+
+
